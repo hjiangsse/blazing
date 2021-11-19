@@ -4,7 +4,7 @@ command line tool help download and upload file
 # build
 go build
 
-# usgae
+# usage
 Usage of blazing:
   -d string  
         files transfer direction, download or upload (default "download")  
